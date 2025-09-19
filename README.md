@@ -197,3 +197,7 @@ Now navigate to
 [this](https://sqliteviz.com/app/#/load?data_url=https%3A%2F%2Fdata-analysis.fedoraproject.org%2Fcsv-reports%2Fcountme%2Ftotals-countme.db&data_format=sqlite&inquiry_url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoreos%2Ffedora-coreos-tracker%2Frefs%2Fheads%2Fmain%2Fmetrics%2Ffcos-sqlitevis.json)
 URL in the browser and it should autoload the database and the inquiries. This
 URL was generated from the [sqlitevis docs](https://sqliteviz.com/docs/sharing/).
+
+# Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/7d1d75ffe3a7715bb7d1b6d5ab1c1b6cc461f36d.svg "Repobeats analytics image")
